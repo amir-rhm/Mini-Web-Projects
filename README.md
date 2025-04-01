@@ -12,6 +12,6 @@
 ## Vanilla Javascript Mini Projects <a id="vjmp"></a>
 
 ### 1️⃣ Authentication <a id="vjmpa"></a>
-link : [Authentication Source](#vjmp)  |  [Authentication Page](#vjmp)
-Stack : 
-Description : 
+link : [Authentication Source](#vjmp)  |  [Authentication Page](#vjmp) <br>
+Stack : <br>
+Description : <br> 
