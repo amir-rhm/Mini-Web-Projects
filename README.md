@@ -12,7 +12,7 @@
 ## Vanilla JS Projects <a id="vjsp"></a>
 
 ### 1️⃣ Authentication <a id="vjmpa"></a>
-- [Demo Page](#vjspa)
+- [Demo](#vjspa)
 - [Source Code](#sdjfl)
 - Stack : HTML, CSS, JS
 - Description : 
