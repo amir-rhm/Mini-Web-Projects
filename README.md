@@ -1,17 +1,18 @@
-# 🚀 Mini Web Projects
+# Mini Web Projects
 
 ## Table of Contents
-- [Vanilla Javascript Mini Projects](#vjmp)
-   - [Authentication](#vjmpa)
+- [Vanilla JS Projects](#vjsp)
+   - [Authentication](#vjspa)
 
 
 
 
 
 
-## Vanilla Javascript Mini Projects <a id="vjmp"></a>
+## Vanilla JS Projects <a id="vjsp"></a>
 
 ### 1️⃣ Authentication <a id="vjmpa"></a>
-link : [Authentication Source](#vjmp)  |  [Authentication Page](#vjmp) <br>
-Stack : <br>
-Description : <br> 
+- [Demo Page](#vjspa)
+- [Source Code](#sdjfl)
+- Stack : HTML, CSS, JS
+- Description : 
