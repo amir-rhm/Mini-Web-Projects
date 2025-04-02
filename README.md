@@ -13,6 +13,7 @@
 
 
 ### 🔹 Vanilla JS Projects <a id="vjsp"></a>
+### 🔵 Vanilla JS Projects <a id="vjsp"></a>
 
 #### 1️⃣ Authentication <a id="auth"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/authJS)
