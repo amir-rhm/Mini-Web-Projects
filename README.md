@@ -1,4 +1,4 @@
-# my Mini Projects
+# 🚀 Mini Web Projects
 
 ## Table of Contents
 - [Vanilla Javascript Mini Projects](#vjmp)
