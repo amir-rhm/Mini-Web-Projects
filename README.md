@@ -11,7 +11,7 @@
 
 ## Vanilla JS Projects <a id="vjsp"></a>
 
-### 1️⃣ Authentication <a id="vjmpa"></a>
+### 1️⃣ Authentication <a id="vjspa"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/authJS)
 - [Source Code](/vanilla-js-projects/authJS)
 - Stack : HTML, CSS, JS
