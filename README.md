@@ -14,5 +14,5 @@
 ### 1️⃣ Authentication <a id="vjspa"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/authJS)
 - [Source Code](/vanilla-js-projects/authJS)
-- Tech : HTML, CSS, JS
+- Tech : HTML, CSS, Vanilla JS
 - Description : 
