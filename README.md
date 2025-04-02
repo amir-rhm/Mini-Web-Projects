@@ -4,7 +4,7 @@
 - [Vanilla JS Projects](#vjsp)
    - [Authentication](#auth)
    - [Quiz](#quiz)
-   - [Search Filter](#searchFilter)
+   - [Search Filter](#searchfilter)
    - [Todo](#todo)
 
 
@@ -27,7 +27,7 @@
 - Description: 
 
 
-#### 3️⃣ Search Filter <a id="searchFilter"></a>
+#### 3️⃣ Search Filter <a id="searchfilter"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/searchFilterJS)
 - [Source Code](/vanilla-js-projects/searchFilterJS)
 - Tech: HTML, CSS, Vanilla JS
