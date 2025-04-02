@@ -8,12 +8,11 @@
    - [Todo](#todo)
 
 
-<br><br><br><br>
+<br><br><br>
 
 
 
 ### 🔹 Vanilla JS Projects <a id="vjsp"></a>
-### 🔵 Vanilla JS Projects <a id="vjsp"></a>
 
 #### 1️⃣ Authentication <a id="auth"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/authJS)
@@ -21,7 +20,7 @@
 - Tech: HTML, CSS, Vanilla JS
 - Description: 
 
-#### 2️⃣ Quiz <a id="vjspa"></a>
+#### 2️⃣ Quiz <a id="quiz"></a>
 - [Demo](https://amir-rhm.github.io/Mini-Web-Projects/vanilla-js-projects/quizJS)
 - [Source Code](/vanilla-js-projects/quizJS)
 - Tech: HTML, CSS, Vanilla JS
